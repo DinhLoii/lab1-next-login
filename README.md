@@ -124,11 +124,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 ## 📝 Author
 
-**[Your Name/Student ID]**
+**[Dinh Van Loi/QE190167]**
 *   **Course**: FER202
 *   **Lab**: 01
 *   **University**: FPT University
-
+*   **GitHub**: [DinhLoii](https://github.com/DinhLoii)
+*   **Email**: [dinhvanloi000@gmail.com](mailto:dinhvanloi000@gmail.com)
 ---
 
 *This README was generated to provide a professional overview of the Lab 1 project submission.*
